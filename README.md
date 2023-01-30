@@ -1,5 +1,5 @@
 [![Header](https://github.com/AlinaPadnya/AlinaPadnya/blob/main/assets/Software-Developers.jpg)]
-## Я Алина Падня QA Engineer. 
+## I am Alina Padnya, QA Engineer. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
