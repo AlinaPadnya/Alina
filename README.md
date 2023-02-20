@@ -2,7 +2,7 @@
 ## I am Alina Padnya, QA Engineer. 
 ## 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://docs.google.com/document/d/1QuzXXWM2WlE0QpIGPQYQOcL3y073D_Zl/edit)
 
 
 
