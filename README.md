@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlinaPadnya/AlinaPadnya/blob/main/assets/How-to-Become-a-Manual-QA-Tester-1000x600.png)]
+![Header](https://github.com/AlinaPadnya/AlinaPadnya/blob/main/assets/How-to-Become-a-Manual-QA-Tester-1000x600.png)
 ## I am Alina Padnya, QA Engineer. 
 ## 
 ## My CV
