@@ -28,7 +28,7 @@
 - [Test-Suites and Test-Cases](https://github.com/AlinaPadnya/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/AlinaPadnya/bug-reports)
 - [SQL Queries](https://github.com/AlinaPadnya/SQL-Queries)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/AlinaPadnya/Postman-Collections)
 
 ### Follow Me
 
