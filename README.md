@@ -25,7 +25,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/AlinaPadnya/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/AlinaPadnya/Test-Suites-and-Test-Cases)
 - [Bug-Reports](https://github.com/AlinaPadnya/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
