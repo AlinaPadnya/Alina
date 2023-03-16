@@ -1,7 +1,7 @@
 ![Header](https://github.com/AlinaPadnya/AlinaPadnya/blob/main/assets/How-to-Become-a-Manual-QA-Tester-1000x600.png)
 ## I am Alina Padnya, QA Engineer.  
 ## My CV
-[Link to my CV](https://docs.google.com/document/d/1QuzXXWM2WlE0QpIGPQYQOcL3y073D_Zl/edit)
+[Link to my CV](https://docs.google.com/document/d/1wfiXwfnq9JZXooWLjNDbins-lt4FtPefRGHkGWjnhNI/edit)
 
 
 
